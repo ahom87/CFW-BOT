@@ -1,0 +1,24 @@
+# Environment / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# User uploaded content
+uploads/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
